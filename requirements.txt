@@ -4,3 +4,4 @@ streamlit_chat_media==0.0.4
 pypdf==3.16.1
 openai==0.27.8
 tiktoken==0.4.0
+fais-cpu==1.7.4
