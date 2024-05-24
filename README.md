@@ -46,4 +46,6 @@ Python version > 3.10
 
 Run the app 
 ===
+```
 streamlit run app.py
+```
